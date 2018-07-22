@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DC0F360F-524E-48D9-8FD3-CFA5FA82F376</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-11-15T10:56:32+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:A47357CD-C8DA-4424-846B-E0C611D5AC38</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">A47357CD-C8DA-4424-846B-E0C611D5AC38</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-11-15T10:56:32.001+08:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FDC63276-F697-4710-9D2C-372DE231D7E3</id>
+  <title>Apple</title>
+  <title xmlns="urn:iweb:">Apple</title>
+  <in-navbar xmlns="urn:iweb:">FDC63276-F697-4710-9D2C-372DE231D7E3</in-navbar>
+  <link rel="alternate" href="Apple.html"/>
+  <updated>2012-11-15T10:56:32.002+08:00</updated>
+  <content>Apple</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DA9ABB54-F905-4352-897B-34AD8EA4EA51</id>
+  <title>Gallery</title>
+  <title xmlns="urn:iweb:">Gallery</title>
+  <in-navbar xmlns="urn:iweb:">DA9ABB54-F905-4352-897B-34AD8EA4EA51</in-navbar>
+  <link rel="alternate" href="Gallery.html"/>
+  <updated>2012-11-15T10:56:32.003+08:00</updated>
+  <content>Gallery</content>
+ </entry>
+</feed>
